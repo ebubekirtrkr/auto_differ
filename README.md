@@ -49,3 +49,5 @@ There is no differences
 
 ## NOTES:
 As you see above, the all numbers are numbers of input-output pairs.
+
+Sorry for my poor English:)And don't hesitate to give pull-request:)
