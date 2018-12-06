@@ -10,6 +10,7 @@
 `input2.txt`
 `output2.txt`
 * Name of your .c file is have to be `main.c`.
+* There is no need to execute gcc command before `auto_differ.sh`.Because when you execute `auto_differ.sh`, your c file already compile in script.
 
 ## TO RUN
 Open terminal in containing `auto_differ.sh`.
