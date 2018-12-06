@@ -1,5 +1,7 @@
 # AUTO DIFFER
 ### It is only for linux devices.
+# USAGE
+
 ## REQUIREMENTS
 * You have to put `auto_differ.sh` with the same directory  sample output and input text files.
 * Your input and output text files have to be like this;
