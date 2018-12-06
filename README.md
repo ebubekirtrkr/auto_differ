@@ -34,8 +34,28 @@ Execute;
 
 `./auto_differ.sh all 5`
 
-`checking 1. input
-There is no differences`
+
+
+`checking 1. input`
+
+`There are differences`
+
+`3,4c3`
+
+`< cccc`
+
+`< d`
+
+`\ No newline at end of file`
+
+`---`
+
+`> cccc`
+
+`\ No newline at end of file`
+
+
+
 
 `checking 2. input
 There is no differences`
